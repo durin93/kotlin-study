@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataType.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataType.kt">
+      <file leaf-file-name="Lamda.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lamda.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Function.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Function.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="286">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -60,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/Basic.kt" />
         <option value="$PROJECT_DIR$/src/DataType.kt" />
         <option value="$PROJECT_DIR$/src/Function.kt" />
+        <option value="$PROJECT_DIR$/src/Lamda.kt" />
       </list>
     </option>
   </component>
@@ -124,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionKt">
+  <component name="RunManager" selected="Kotlin.LamdaKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -184,6 +176,16 @@
       <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="LamdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LamdaKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -211,9 +213,11 @@
       <item itemvalue="Kotlin.BasicKt" />
       <item itemvalue="Kotlin.DataTypeKt" />
       <item itemvalue="Kotlin.FunctionKt" />
+      <item itemvalue="Kotlin.LamdaKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LamdaKt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.DataTypeKt" />
         <item itemvalue="Kotlin.BasicKt" />
@@ -231,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542515753045</updated>
-      <workItem from="1542515762298" duration="6029000" />
+      <workItem from="1542515762298" duration="9181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6029000" />
+    <option name="totallyTimeSpent" value="9181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -293,6 +297,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Function.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -300,10 +311,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Function.kt">
+    <entry file="file://$PROJECT_DIR$/src/Lamda.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="286">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
