@@ -14,4 +14,13 @@ fun main(args: Array<String>) {
     println("문자열")
     println('a')
 
+    var a1 = 100;
+    println("a1 : ${a1}")
+
+    var a2 : Int = 100
+
+    println("a2 : ${a2}")
+
+    val a = 100
+
 }
