@@ -21,6 +21,11 @@ fun main(args : Array<String>){
         x-y
     });
 
+
+    function314(a1 = {x:Int, y: Int ->
+         x-y
+    })
+
 }
 
 fun function1(a1 : () -> Unit){
@@ -36,4 +41,12 @@ fun function2(a1 : (Int, Int) -> Unit){
 fun function3(a1 : (Int, Int) -> Int){
     var a2 = a1(100,200)
     println("a2 : ${a2}")
+}
+
+fun function100():Int{
+    return 10
+}
+
+fun function314(a1 : (Int,Int) -> Int){
+    println(a1(10,10))
 }
