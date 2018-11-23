@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="" />
+    <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,60 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Operator.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operator.kt">
+      <file leaf-file-name="Inherit.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="If.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/If.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="When.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/When.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Loop.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Loop.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OOP.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Init.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Init.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!block;n#TestClass1#0" />
-                <element signature="n#!!block;n#TestClass22#0" />
-              </folding>
+            <state relative-caret-position="503">
+              <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -104,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/Loop.kt" />
         <option value="$PROJECT_DIR$/src/OOP.kt" />
         <option value="$PROJECT_DIR$/src/Init.kt" />
+        <option value="$PROJECT_DIR$/src/Inherit.kt" />
       </list>
     </option>
   </component>
@@ -167,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.InitKt">
+  <component name="RunManager" selected="Kotlin.InheritKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -186,6 +140,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="InheritKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InheritKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="InitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
@@ -215,16 +179,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="OOPKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="OperatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="OperatorKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="WhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -260,19 +214,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.OperatorKt" />
       <item itemvalue="Kotlin.WhenKt" />
       <item itemvalue="Kotlin.LoopKt" />
       <item itemvalue="Kotlin.OOPKt" />
       <item itemvalue="Kotlin.InitKt" />
+      <item itemvalue="Kotlin.InheritKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritKt" />
         <item itemvalue="Kotlin.InitKt" />
         <item itemvalue="Kotlin.OOPKt" />
         <item itemvalue="Kotlin.LoopKt" />
         <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.OperatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -286,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542515753045</updated>
-      <workItem from="1542515762298" duration="22200000" />
+      <workItem from="1542515762298" duration="23790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22200000" />
+    <option name="totallyTimeSpent" value="23790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -425,13 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Loop.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -441,12 +388,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Init.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!block;n#TestClass1#0" />
-            <element signature="n#!!block;n#TestClass22#0" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="45" lean-forward="true" selection-start-line="31" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
         </state>
       </provider>
     </entry>
