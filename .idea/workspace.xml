@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/BasicKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/FunctionKt$function7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/FunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/HelloWorldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/IfKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/InheritKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/InitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LoopKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/OOPKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/OperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Sub2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Super1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Super2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/WhenKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/WhenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inherit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inherit.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,12 +44,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Inherit.kt" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Inherit.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+            <state relative-caret-position="433">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Capsulation.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Capsulation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -58,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/OOP.kt" />
         <option value="$PROJECT_DIR$/src/Init.kt" />
         <option value="$PROJECT_DIR$/src/Inherit.kt" />
+        <option value="$PROJECT_DIR$/src/Capsulation.kt" />
       </list>
     </option>
   </component>
@@ -81,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -98,7 +140,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -121,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.InheritKt">
+  <component name="RunManager" selected="Kotlin.CapsulationKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -140,6 +181,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="CapsulationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CapsulationKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="InheritKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
@@ -181,16 +232,6 @@
       <option name="MAIN_CLASS_NAME" value="OOPKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -214,19 +255,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.WhenKt" />
       <item itemvalue="Kotlin.LoopKt" />
       <item itemvalue="Kotlin.OOPKt" />
       <item itemvalue="Kotlin.InitKt" />
       <item itemvalue="Kotlin.InheritKt" />
+      <item itemvalue="Kotlin.CapsulationKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CapsulationKt" />
         <item itemvalue="Kotlin.InheritKt" />
         <item itemvalue="Kotlin.InitKt" />
         <item itemvalue="Kotlin.OOPKt" />
         <item itemvalue="Kotlin.LoopKt" />
-        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +281,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542515753045</updated>
-      <workItem from="1542515762298" duration="23790000" />
+      <workItem from="1542515762298" duration="25354000" />
+      <workItem from="1543033265467" duration="502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23790000" />
+    <option name="totallyTimeSpent" value="25856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -253,7 +295,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32827735" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -261,11 +302,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3261105" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33152762" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3261105" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.33152762" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2521322" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25479743" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -273,29 +314,30 @@
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32827735" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3261105" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info content_ui="combo" id="Project" order="5" weight="0.39712107" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="11" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
@@ -303,9 +345,9 @@
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.33260393" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32932165" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -323,6 +365,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -402,8 +451,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        <state relative-caret-position="433">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Capsulation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
