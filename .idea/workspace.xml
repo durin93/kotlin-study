@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/BasicKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/DataTypeKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/FunctionKt$function7$1.class" beforeDir="false" />
@@ -18,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt$main$5.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LamdaKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/LoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/OOPKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/OperatorKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Sub.class" beforeDir="false" />
@@ -33,7 +31,19 @@
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/TestClass33.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/WhenKt$main$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/WhenKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inherit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inherit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Basic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Capsulation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Capsulation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/DataType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/If.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/If.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inherit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Inherit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Init.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Init.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lamda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Lamda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Loop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/OOP.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/Operator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/When.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemyLecture/When.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,20 +55,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Inherit.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
+      <file leaf-file-name="Overriding.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/udemyLecture/Overriding.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Capsulation.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Capsulation.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="352">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -99,6 +100,8 @@
         <option value="$PROJECT_DIR$/src/Init.kt" />
         <option value="$PROJECT_DIR$/src/Inherit.kt" />
         <option value="$PROJECT_DIR$/src/Capsulation.kt" />
+        <option value="$PROJECT_DIR$/src/udemyLecture/Capsulation.kt" />
+        <option value="$PROJECT_DIR$/src/udemyLecture/Overriding.kt" />
       </list>
     </option>
   </component>
@@ -136,6 +139,12 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="udemyLecture" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,6 +159,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\kotlin\src\udemyLecture" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -162,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.CapsulationKt">
+  <component name="RunManager" selected="Kotlin.udemyLecture.OverridingKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -182,54 +196,54 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CapsulationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemyLecture.CapsulationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CapsulationKt" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.CapsulationKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="InheritKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemyLecture.InheritKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="InheritKt" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.InheritKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="InitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemyLecture.InitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="InitKt" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.InitKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="LoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemyLecture.OOPKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="LoopKt" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.OOPKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="OOPKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemyLecture.OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="OOPKt" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.OverridingKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -255,19 +269,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.LoopKt" />
-      <item itemvalue="Kotlin.OOPKt" />
-      <item itemvalue="Kotlin.InitKt" />
-      <item itemvalue="Kotlin.InheritKt" />
-      <item itemvalue="Kotlin.CapsulationKt" />
+      <item itemvalue="Kotlin.udemyLecture.OOPKt" />
+      <item itemvalue="Kotlin.udemyLecture.InitKt" />
+      <item itemvalue="Kotlin.udemyLecture.InheritKt" />
+      <item itemvalue="Kotlin.udemyLecture.CapsulationKt" />
+      <item itemvalue="Kotlin.udemyLecture.OverridingKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CapsulationKt" />
-        <item itemvalue="Kotlin.InheritKt" />
-        <item itemvalue="Kotlin.InitKt" />
-        <item itemvalue="Kotlin.OOPKt" />
-        <item itemvalue="Kotlin.LoopKt" />
+        <item itemvalue="Kotlin.udemyLecture.OverridingKt" />
+        <item itemvalue="Kotlin.udemyLecture.CapsulationKt" />
+        <item itemvalue="Kotlin.udemyLecture.InheritKt" />
+        <item itemvalue="Kotlin.udemyLecture.InitKt" />
+        <item itemvalue="Kotlin.udemyLecture.OOPKt" />
       </list>
     </recent_temporary>
   </component>
@@ -282,12 +296,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542515753045</updated>
       <workItem from="1542515762298" duration="25354000" />
-      <workItem from="1543033265467" duration="502000" />
+      <workItem from="1543033265467" duration="1850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25856000" />
+    <option name="totallyTimeSpent" value="27204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -295,6 +309,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32827735" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -302,11 +317,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3261105" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.33152762" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33152762" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25479743" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25479743" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -320,7 +335,6 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32827735" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="5" />
@@ -365,101 +379,108 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Inherit.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1210">
           <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/HelloWorld.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basic.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Basic.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataType.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/DataType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Function.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Function.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-314">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lamda.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Lamda.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Operator.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Operator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/If.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/If.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/When.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/When.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/OOP.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Init.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Init.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="45" lean-forward="true" selection-start-line="31" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Loop.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Loop.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inherit.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Inherit.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Capsulation.kt">
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Capsulation.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="330">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Overriding.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
