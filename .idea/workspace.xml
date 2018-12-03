@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="" />
+    <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/AbClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/AbClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectKt$main$a1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectKt$main$a1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectKt$main$a2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectKt$main$a2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/udemyLecture/ObjectKt.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Object.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/udemyLecture/Object.kt">
+      <file leaf-file-name="Array.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/udemyLecture/Array.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+            <state relative-caret-position="525">
+              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/udemyLecture/NestedClass.kt" />
         <option value="$PROJECT_DIR$/src/udemyLecture/Enum.kt" />
         <option value="$PROJECT_DIR$/src/udemyLecture/Object.kt" />
+        <option value="$PROJECT_DIR$/src/udemyLecture/Array.kt" />
       </list>
     </option>
   </component>
@@ -141,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemyLecture.ObjectKt">
+  <component name="RunManager" selected="Kotlin.udemyLecture.ArrayKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -161,6 +170,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="udemyLecture.ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.ArrayKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="udemyLecture.EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
@@ -169,16 +188,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemyLecture.EnumKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="udemyLecture.GenericKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemyLecture.GenericKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="udemyLecture.InitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -234,19 +243,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemyLecture.GenericKt" />
       <item itemvalue="Kotlin.udemyLecture.InitKt" />
       <item itemvalue="Kotlin.udemyLecture.NestedClassKt" />
       <item itemvalue="Kotlin.udemyLecture.EnumKt" />
       <item itemvalue="Kotlin.udemyLecture.ObjectKt" />
+      <item itemvalue="Kotlin.udemyLecture.ArrayKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udemyLecture.ArrayKt" />
         <item itemvalue="Kotlin.udemyLecture.ObjectKt" />
         <item itemvalue="Kotlin.udemyLecture.EnumKt" />
         <item itemvalue="Kotlin.udemyLecture.NestedClassKt" />
         <item itemvalue="Kotlin.udemyLecture.InitKt" />
-        <item itemvalue="Kotlin.udemyLecture.GenericKt" />
       </list>
     </recent_temporary>
   </component>
@@ -261,12 +270,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542515753045</updated>
       <workItem from="1542515762298" duration="25354000" />
-      <workItem from="1543033265467" duration="10349000" />
+      <workItem from="1543033265467" duration="11942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35703000" />
+    <option name="totallyTimeSpent" value="37296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -340,7 +349,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -493,8 +502,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/udemyLecture/Object.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="322">
           <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Array.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
         </state>
       </provider>
     </entry>
