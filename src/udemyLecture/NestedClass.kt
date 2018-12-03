@@ -56,7 +56,7 @@ class Outer1 {
 
 
     fun outerMethod() {
-        println("innerMember : " + innerMember)
+//        println("innerMember : " + innerMember)
     }
 }
 

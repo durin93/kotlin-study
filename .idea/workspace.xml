@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="284c5183-4411-4435-9c8e-4e73b1b0e480" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,38 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="When.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemyLecture/When.kt">
+      <file leaf-file-name="Enum.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/udemyLecture/Enum.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1342">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OOP.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemyLecture/OOP.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Init.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemyLecture/Init.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Generic.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/udemyLecture/Generic.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="88">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -53,8 +27,8 @@
       <file leaf-file-name="NestedClass.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/udemyLecture/NestedClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+            <state relative-caret-position="415">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -102,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/udemyLecture/DataClass.kt" />
         <option value="$PROJECT_DIR$/src/udemyLecture/Generic.kt" />
         <option value="$PROJECT_DIR$/src/udemyLecture/Init.kt" />
+        <option value="$PROJECT_DIR$/src/udemyLecture/Enum.kt" />
         <option value="$PROJECT_DIR$/src/udemyLecture/NestedClass.kt" />
       </list>
     </option>
@@ -177,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemyLecture.NestedClassKt">
+  <component name="RunManager" selected="Kotlin.udemyLecture.EnumKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -207,6 +182,16 @@
       <option name="MAIN_CLASS_NAME" value="udemyLecture.DataClassKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="udemyLecture.EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemyLecture.EnumKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="udemyLecture.GenericKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="VM_PARAMETERS" />
@@ -225,16 +210,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemyLecture.InitKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="udemyLecture.InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemyLecture.InterfaceKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="udemyLecture.NestedClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -270,19 +245,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemyLecture.InterfaceKt" />
       <item itemvalue="Kotlin.udemyLecture.DataClassKt" />
       <item itemvalue="Kotlin.udemyLecture.GenericKt" />
       <item itemvalue="Kotlin.udemyLecture.InitKt" />
       <item itemvalue="Kotlin.udemyLecture.NestedClassKt" />
+      <item itemvalue="Kotlin.udemyLecture.EnumKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udemyLecture.EnumKt" />
         <item itemvalue="Kotlin.udemyLecture.NestedClassKt" />
         <item itemvalue="Kotlin.udemyLecture.InitKt" />
         <item itemvalue="Kotlin.udemyLecture.GenericKt" />
         <item itemvalue="Kotlin.udemyLecture.DataClassKt" />
-        <item itemvalue="Kotlin.udemyLecture.InterfaceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,12 +272,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542515753045</updated>
       <workItem from="1542515762298" duration="25354000" />
-      <workItem from="1543033265467" duration="8001000" />
+      <workItem from="1543033265467" duration="8775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33355000" />
+    <option name="totallyTimeSpent" value="34129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -310,7 +285,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.32827735" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -318,7 +293,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3261105" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.33152762" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
@@ -376,7 +351,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -513,10 +488,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemyLecture/Enum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/udemyLecture/NestedClass.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        <state relative-caret-position="415">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
         </state>
       </provider>
     </entry>
